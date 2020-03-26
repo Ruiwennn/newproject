@@ -104,4 +104,4 @@ for item in Is:
 # print(StudentA.get_gender())
 
 
-print('Hello')
+print('123456')
